@@ -6,6 +6,6 @@ add objects to game.toml
 
 all objects excluding plane affected by gravity
 
-no collision
+no collision (almost)
 
 probability of segfault :) run again then

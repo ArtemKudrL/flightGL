@@ -1,0 +1,4 @@
+gameConfig = "game.toml"
+clearColor = [1.0, 1.0, 1.0, 1.0]
+modelFiles = ["model/plane.obj", "model/cube.obj", "model/asteroid.obj", "model/BIGBOY.obj"]
+textureFiles = ["texture/chmonya.jpg", "texture/cringe.jpg", "texture/papich.jpg", "texture/monke.png"]

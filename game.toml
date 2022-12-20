@@ -1,0 +1,49 @@
+bodies = ["cringe", "papich", "BIGBOY", "hui"]
+
+[eye]
+position = [-10, 0, 2]
+speed = [0, 0, 0]
+direction = [1, 0, 0]
+upDirection = [0, 0, 1]
+
+[plane]
+position = [0, 0, 0]
+yprOrientation = [0, 0, 90]
+model = "model/plane.obj"
+texture = "texture/chmonya.jpg"
+
+[cringe]
+mass = 1
+position = [0, -10, 2]
+speed = [0, 0, 0]
+yprOrientation = [0, 0, 0]
+rotation = [0, 0, 0]
+model = "model/asteroid.obj"
+texture = "texture/cringe.jpg"
+
+[papich]
+mass = 1
+position = [0, 2, 2]
+speed = [0, 0, 0]
+yprOrientation = [0, 0, 0]
+rotation = [0, 0, 0]
+model = "model/cube.obj"
+texture = "texture/papich.jpg"
+
+[BIGBOY]
+mass = 100
+position = [0, 0, 200]
+speed = [0, 0, 0]
+yprOrientation = [0, 0, 0]
+rotation = [0, 0, 0]
+model = "model/BIGBOY.obj"
+texture = "texture/monke.png"
+
+[hui]
+mass = 9999
+position = [1000, 0, 0]
+speed = [0, 0, 0]
+yprOrientation = [0, 0, 0]
+rotation = [0, 0, 0]
+model = "model/asteroid.obj"
+texture = "texture/monke.png"
